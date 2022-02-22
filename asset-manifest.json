@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3d6484f4.chunk.css",
+    "main.js": "./static/js/main.d91ff120.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.020ea88e.js",
+    "static/js/2.f728bbd8.chunk.js": "./static/js/2.f728bbd8.chunk.js",
+    "index.html": "./index.html",
+    "static/js/2.f728bbd8.chunk.js.LICENSE.txt": "./static/js/2.f728bbd8.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "./static/media/volt-bg.249ddb5b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.020ea88e.js",
+    "static/js/2.f728bbd8.chunk.js",
+    "static/css/main.3d6484f4.chunk.css",
+    "static/js/main.d91ff120.chunk.js"
+  ]
+}
